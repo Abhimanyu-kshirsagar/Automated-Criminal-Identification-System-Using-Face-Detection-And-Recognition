@@ -1,0 +1,7 @@
+Create a simple CSV mapping label id to name (no header). Put it at data/labels.csv.
+
+Copy
+Edit
+1,Rajesh Kumar
+2,Anita Sharma
+3,John Doe
